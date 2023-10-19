@@ -1,0 +1,12 @@
+#!/bin/bash
+name="Rachana"
+echo "Hello! I am $name"
+echo "Please Enter you name"
+read name
+
+echo "Your Id No."
+read idno
+
+echo "Hello $name, you are eligible for free courses!"
+
+./my_file.txt

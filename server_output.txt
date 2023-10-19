@@ -1,0 +1,20 @@
+***********************************************
+Hello, I am User  ubuntu
+**********************************************
+
+Current Date And Time is : Tue Sep 26 12:57:38 UTC 2023
+**********************************************
+
+Server uptime is :
+ 12:57:37 up  3:50,  1 user,  load average: 0.00, 0.00, 0.00
+**********************************************
+**********************************************
+My server Disk Utilization:
+Free Disk Space is:4.0G
+Total Disk Space is:7.6G
+**********************************************
+My Server RAM Utilization:
+Free Memory is:70Mi
+Total Memory is:949Mi
+**********************************************
+
